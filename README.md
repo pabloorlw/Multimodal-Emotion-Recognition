@@ -2,7 +2,7 @@
 
 In this repository you will find the code used for the experimentation in the final thesis: “Introduction to multimodal emotion recognition”. 
 
-This thesis utilizes both unimodal and multimodal approaches for emotion detection. Below is a breakdown of the models and datasets used, along with links to their respective Hugging Face repositories and relevant code locations.
+This thesis utilizes both unimodal and multimodal approaches for emotion detection. Below is a breakdown of the models and datasets used, along with relevant code locations.
 
 1. Text model: we fine-tuned DistilBERT on Emotions dataset.
    * The code used to fine-tune DisilBERT can be found in the models/ directory.
@@ -12,4 +12,6 @@ This thesis utilizes both unimodal and multimodal approaches for emotion detecti
 3. The multimodal models and evaluation of transfer-learning capabilities on MELD dataset can be found in in models/ directory.
    * The code for preprocessing the MELD dataset is located in data/MELD.
 
-Both fine-tuned models and preprocessed datasets can be obtained from [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-orange?style=flat-square)](https://huggingface.co/pabloorlw)
+
+Both fine-tuned models and preprocessed datasets can be obtained from: [![🤗 Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-303030?style=flat&logoColor=white)]
+(https://huggingface.co/pabloorlw)
