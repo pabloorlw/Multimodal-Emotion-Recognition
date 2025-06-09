@@ -1,8 +1,6 @@
 # Multimodal-Emotion-Recognition
 
-In this repository you will find the code used for the experimentation in the final thesis: “Introduction to multimodal emotion recognition”. 
-
-This thesis utilizes both unimodal and multimodal approaches for emotion detection. Below is a breakdown of the models and datasets used, along with relevant code locations.
+In this repository you will find the code used for the experimentation in the final thesis: “Introduction to multimodal emotion recognition”. This thesis utilizes both unimodal and multimodal approaches for emotion detection. Below is a breakdown of the models and datasets used, along with relevant code locations.
 
 1. Text model: we fine-tuned DistilBERT on Emotions dataset.
    * The code used to fine-tune DisilBERT can be found in the models/ directory.
