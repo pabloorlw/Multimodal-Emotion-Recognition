@@ -13,4 +13,4 @@ This thesis utilizes both unimodal and multimodal approaches for emotion detecti
    * The code for preprocessing the MELD dataset is located in data/MELD.
 
 
-Both fine-tuned models and preprocessed datasets can be obtained from [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-303030?style=flat&logoColor=white)](https://huggingface.co/pabloorlw).
+Both fine-tuned models and preprocessed datasets can be obtained from [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-303030?style=flat&logoColor=white)](https://huggingface.co/pabloorlw)
