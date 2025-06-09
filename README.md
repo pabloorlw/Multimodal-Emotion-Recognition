@@ -6,10 +6,12 @@ This thesis utilizes both unimodal and multimodal approaches for emotion detecti
 
 1. Text model: we fine-tuned DistilBERT on Emotions dataset.
    * The code used to fine-tune DisilBERT can be found in the models/ directory.
+     
 2. Audio model: we fine-tuned Wav2Vec 2.0 on RAVDESS dataset.
    * The code for preprocessing the RAVDESS dataset is located in data/RAVDESS/.
    * The code used to fine-tune Wav2Vec 2.0 can be found in the models/ directory.
-3. The multimodal models and evaluation of transfer-learning capabilities on MELD dataset can be found in in models/ directory.
+     
+3. The multimodal models and evaluation of transfer-learning capabilities on MELD dataset can be found in models/ directory.
    * The code for preprocessing the MELD dataset is located in data/MELD.
 
 
