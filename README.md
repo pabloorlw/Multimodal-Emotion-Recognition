@@ -12,4 +12,5 @@ This thesis utilizes both unimodal and multimodal approaches for emotion detecti
 3. The multimodal models and evaluation of transfer-learning capabilities on MELD dataset can be found in in models/ directory.
    * The code for preprocessing the MELD dataset is located in data/MELD.
 
-Both fine-tuned models and preprocessed datasets can be obtained from [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Repository-blue)(https://huggingface.co/pabloorlw)
+Both fine-tuned models and preprocessed datasets can be obtained from[![Hugging Face Repository](https://img.shields.io/badge/Hugging%20Face-Repository-blue?logo=huggingface&style=flat-square)]
+(https://huggingface.co/pabloorlw)
